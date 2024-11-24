@@ -29,7 +29,9 @@ matplotlib, seaborn : Création de visualisations.
 ## Configuration et Installation
 
 - Pour exécuter ce projet sur votre machine locale :
+'''python
 git clone <lien_du_dépôt>
+'''
   
 - Installer les dépendances nécessaires :
 pip install pandas numpy matplotlib seaborn
