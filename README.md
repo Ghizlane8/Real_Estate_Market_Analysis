@@ -29,9 +29,9 @@ matplotlib, seaborn : Création de visualisations.
 ## Configuration et Installation
 
 - Pour exécuter ce projet sur votre machine locale :
-'''bash
+"""bash
 git clone <lien_du_dépôt>
-'''
+"""
   
 - Installer les dépendances nécessaires :
 use the package manager [pip](https://pip.io/en/stable/)
