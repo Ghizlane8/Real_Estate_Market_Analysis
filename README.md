@@ -24,12 +24,12 @@ Ce travail inclut :
 
 ## 🔍 Analyse effectuée
 ### Visualisations :
-  - Répartition des ventes par âges des clients.
-  - Chiffre d'affaires annuel.
-  - Satisfaction des transactions par pays.
-  - Performances des états et des bâtiments.
-  - Répartition des ventes par état (USA).
-  - Distribution des achats par âge et par prix.
+    - Répartition des ventes par âges des clients.
+    - Chiffre d'affaires annuel.
+    - Satisfaction des transactions par pays.
+    - Performances des états et des bâtiments.
+    - Répartition des ventes par état (USA).
+    - Distribution des achats par âge et par prix.
 
 - Recommandations stratégiques : Propositions pour maximiser les revenus et optimiser la stratégie marketing.
 
