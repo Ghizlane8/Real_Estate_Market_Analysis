@@ -9,13 +9,16 @@ Ce travail inclut :
   -Des recommandations basées sur des insights tirés des données.
   
 ## Fonctionnalités Principales
--Analyse descriptive : Exploration des ventes par région, type de bâtiment et profil des clients.
--Segmentation des âges et des prix : Identification des groupes d'acheteurs et des gammes de prix performantes.
--Visualisations :
-  Répartition des âges des clients.
-  Chiffre d'affaires annuel.
-  Satisfaction des transactions par pays.
-  Performances des états et des bâtiments.
+- Analyse descriptive : Exploration des ventes par région, type de bâtiment et profil des clients.
+  
+- Segmentation des âges et des prix : Identification des groupes d'acheteurs et des gammes de prix performantes.
+  
+- Visualisations :
+    - Répartition des âges des clients.
+    - Chiffre d'affaires annuel.
+    - Satisfaction des transactions par pays.
+    - Performances des états et des bâtiments.
+
 -Recommandations stratégiques : Propositions pour maximiser les revenus et optimiser la stratégie marketing.
 
 ## Technologies Utilisées
