@@ -29,16 +29,15 @@ matplotlib, seaborn : Création de visualisations.
 ## Configuration et Installation
 
 - Pour exécuter ce projet sur votre machine locale :
-"""bash
+
 git clone <lien_du_dépôt>
-"""
+
   
 - Installer les dépendances nécessaires :
 use the package manager [pip](https://pip.io/en/stable/)
 
-'''bash
 pip install pandas numpy matplotlib seaborn
-'''
+
 
 - Exécuter le notebook :
 Ouvrez real_estate_analysis.ipynb dans Jupyter Notebook ou Google Colab.
