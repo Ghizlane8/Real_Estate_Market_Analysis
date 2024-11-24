@@ -24,12 +24,12 @@ Ce travail inclut :
 
 ## 🔍 Analyse effectuée
 ### Visualisations :
-    - Répartition des ventes par âges des clients.
-    - Chiffre d'affaires annuel.
-    - Satisfaction des transactions par pays.
-    - Performances des états et des bâtiments.
-    - Répartition des ventes par état (USA).
-    - Distribution des achats par âge et par prix.
+  - Répartition des ventes par âges des clients.
+  - Chiffre d'affaires annuel.
+  - Satisfaction des transactions par pays.
+  - Performances des états et des bâtiments.
+  - Répartition des ventes par état (USA).
+  - Distribution des achats par âge et par prix.
 
 - Recommandations stratégiques : Propositions pour maximiser les revenus et optimiser la stratégie marketing.
 
@@ -43,12 +43,14 @@ Ce travail inclut :
 Assurez-vous d'avoir Python 3.x installé. Installez les dépendances :
 ```bash
 pip install pandas numpy matplotlib seaborn
+```
 
 ## ▶️ Exécution :
 1. Placez les fichiers customers.csv et properties.csv dans le même répertoire que le script.
 2. Lancez le script principal :
 ```bash
 python real_estate_analysis.py
+```
 
 3. Consultez les visualisations et rapports générés dans le répertoire de sortie.
 
