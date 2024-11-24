@@ -39,5 +39,6 @@ Ouvrez real_estate_analysis.ipynb dans Jupyter Notebook ou Google Colab.
 Exécutez les cellules pour reproduire les analyses et visualisations.
 
 ## Vidéo Explicative
-Une vidéo détaillant le projet est disponible.
+Une vidéo détaillant le projet est disponible ici.
+
 https://github.com/user-attachments/assets/90a9a107-546d-4243-9802-8e31566902bc
