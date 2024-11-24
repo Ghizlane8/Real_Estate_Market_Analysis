@@ -29,7 +29,7 @@ matplotlib, seaborn : Création de visualisations.
 ## Configuration et Installation
 
 - Pour exécuter ce projet sur votre machine locale :
-'''python
+'''bash
 git clone <lien_du_dépôt>
 '''
   
