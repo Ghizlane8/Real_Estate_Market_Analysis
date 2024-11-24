@@ -19,14 +19,14 @@ Ce travail inclut :
     - Satisfaction des transactions par pays.
     - Performances des états et des bâtiments.
 
--Recommandations stratégiques : Propositions pour maximiser les revenus et optimiser la stratégie marketing.
+- Recommandations stratégiques : Propositions pour maximiser les revenus et optimiser la stratégie marketing.
 
 ## Technologies Utilisées
 
 - Python : Langage principal pour l'analyse et la manipulation des données.
 - Bibliothèques Python :
-pandas, numpy : Nettoyage et traitement des données.
-matplotlib, seaborn : Création de visualisations.
+    - pandas, numpy : Nettoyage et traitement des données.
+    - matplotlib, seaborn : Création de visualisations.
 - Outils : Jupyter Notebook, Google Colab.
 
 ## Configuration et Installation
@@ -37,10 +37,10 @@ git clone <lien_du_dépôt>
 
   
 - Installer les dépendances nécessaires :
+  
 use the package manager [pip](https://pip.io/en/stable/)
 
 pip install pandas numpy matplotlib seaborn
-
 
 - Exécuter le notebook :
 Ouvrez real_estate_analysis.ipynb dans Jupyter Notebook ou Google Colab.
