@@ -44,7 +44,6 @@ pip install pandas numpy matplotlib seaborn
 
 - Exécuter le notebook :
 Ouvrez real_estate_analysis.ipynb dans Jupyter Notebook ou Google Colab.
-Exécutez les cellules pour reproduire les analyses et visualisations.
 
 ## Vidéo Explicative
 Une vidéo détaillant le projet est disponible ici.
