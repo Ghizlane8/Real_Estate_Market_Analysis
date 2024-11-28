@@ -64,3 +64,8 @@ python real_estate_analysis.py
 ```
 
 3. Consultez les visualisations et rapports générés dans le répertoire de sortie.
+
+## Vidéo Explicative
+Une vidéo détaillant le projet est disponible ici.
+
+https://github.com/user-attachments/assets/90a9a107-546d-4243-9802-8e31566902bc
